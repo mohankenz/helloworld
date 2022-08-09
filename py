@@ -1,1 +1,4 @@
-C:\storage1\hello.py
+
+print('Hello, world!')
+
+
